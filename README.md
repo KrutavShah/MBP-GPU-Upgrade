@@ -4,7 +4,7 @@ Upgrade your 2010, 2011, and 2012 MacBook Pro 15 inch (A1286) dGPU with this com
 
 ## What is this project about?
 Due to the common GPU failures and the age of them, they are no longer viable for use and may need to be replaced. Other times, you may want the latest technology to run the newest operating systems. With this upgrade, you can install an MXM Type-A GPU compatible with the Metal API. This allows you to run Metal applications and operating systems like MacOS Catalina on an older MacBook such as the MacBook Pro 2011 15 inch, which suffers from a failing built-in dGPU.
-In addition, this project also includes components from another design, the [MBP-Wireless-Upgrade][https://github.com/KrutavShah/MBP-Wireless-Upgrade] allowing you to give your MacBook a WiFi and BlueTooth upgrade in addition to the GPU if you choose to.
+In addition, this project also includes components from another design, the [MBP-Wireless-Upgrade](https://github.com/KrutavShah/MBP-Wireless-Upgrade) allowing you to give your MacBook a WiFi and BlueTooth upgrade in addition to the GPU if you choose to.
 
 ## What is the progress so far?
 Currently, this project will need a fair bit of work before it is completely ready for fabrication and use inside a MacBook. This project takes a lot of inspiration from my MXM Riser project, which will also be the basis for the design here as this project uses the MXM standard to allow the user to install a variety of GPUs.
