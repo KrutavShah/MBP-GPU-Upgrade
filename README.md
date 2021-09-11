@@ -9,8 +9,7 @@ In addition, this project also includes components from another design, the [MBP
 ## What is the progress so far?
 Currently, this project will need a fair bit of work before it is completely ready for fabrication and use inside a MacBook. This project takes a lot of inspiration from my MXM Riser project, which will also be the basis for the design here as this project uses the MXM standard to allow the user to install a variety of GPUs.
 
-<!-- ![Picture of the MacBook Pro Universal Adapter inside a MacBook Pro 2011.](https://github.com/KrutavShah/MBP-Wireless-Upgrade/blob/master/Images/InstalledMBPUniversalAdpater.JPG "Picture of the MacBook Pro Universal Adapter inside a MacBook Pro 2011.")
-![Picture of the MacBook Pro Universal Adapter.](/Images/MBPUniversalAdapter.png "Picture of the MacBook Pro Universal Adapter.") -->
+![Picture of the MacBook Pro dGPU Upgrade Adapter.](/Images/CurrentStatus.PNG "Picture of the MacBook Pro dGPU Upgrade Adapter.")
 
 ## Why should you upgrade a MacBook that is over a decade old?
 Some users may choose to hold on to a MacBook until it stops working entirely, or until a compelling new release from Apple. In any case, this project can give your old MacBook a little more life until you are finally ready to switch to something newer.  
