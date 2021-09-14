@@ -19,12 +19,4 @@ The improvements:
 - Install a GPU that can outperform the current dGPU.
   
 ### Licensing information
-This work is licensed under a
-[Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License][cc-by-nc-nd].
-
-Distribution and modification of this project is not allowed. You are allowed to produce the design found in this project for personal use, and any commercial usage is prohibited.
-
-[![CC BY-NC-ND 4.0][cc-by-nc-nd-image]][cc-by-nc-nd]
-
-[cc-by-nc-nd]: http://creativecommons.org/licenses/by-nc-nd/4.0/
-[cc-by-nc-nd-image]: https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png
+This project includes other works, such as Krutav Shah's MBP-Wireless-Upgrade. It is an open-source project featured inside of this one and is listed under the CC-BY-NC-ND license. The included Krutav Shah MXM Riser project and this MXM-GPU-Upgrade project are both © Krutav Shah, The Krutav Shah Company. Distribution and modification of this project is not allowed. Individuals are allowed to produce one (1) unit of the design found in this project for personal use, and any commercial usage is prohibited.
